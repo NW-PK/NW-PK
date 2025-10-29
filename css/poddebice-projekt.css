@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 .title {
@@ -49,3 +50,4 @@ background: linear-gradient(135deg, #cbccd755 25%, transparent 25%) -10px 0/ 20p
   }
 
 }
+
