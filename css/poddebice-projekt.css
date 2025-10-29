@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+
+body {
     overflow-x: hidden;
 }
 
@@ -50,4 +53,5 @@ background: linear-gradient(135deg, #cbccd755 25%, transparent 25%) -10px 0/ 20p
   }
 
 }
+
 
